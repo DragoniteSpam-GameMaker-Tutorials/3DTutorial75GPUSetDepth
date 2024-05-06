@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Group_Code",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Group_Code",
+  "parent":{
+    "name":"3DTutorial75GPUSetDepth",
+    "path":"3DTutorial75GPUSetDepth.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

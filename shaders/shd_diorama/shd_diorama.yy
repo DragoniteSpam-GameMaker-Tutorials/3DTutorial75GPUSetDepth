@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_diorama",
+  "name":"shd_diorama",
+  "parent":{
+    "name":"3DTutorial75GPUSetDepth",
+    "path":"3DTutorial75GPUSetDepth.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
